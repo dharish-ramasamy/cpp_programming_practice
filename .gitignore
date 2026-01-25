@@ -1,0 +1,18 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+a.out
+*.exe
+*.out
+*.app
+
+# Debug files
+*.gdb
+*.dSYM/
+
+# Build directories
+build/
+bin/
+obj/
