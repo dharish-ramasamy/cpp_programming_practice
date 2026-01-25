@@ -7,6 +7,7 @@ a.out
 *.exe
 *.out
 *.app
+fun
 
 # Debug files
 *.gdb
