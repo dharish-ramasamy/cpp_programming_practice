@@ -19,5 +19,9 @@ To build strong foundations in C++ for:
 - Compiler: g++ (C++20)
 - OS: Ubuntu Linux
 
+## ⚠️  Note
+This repository is strictly for **learning and practice purposes**.  
+Executable files and build artifacts are excluded using `.gitignore` to keep the repository clean and professional.</br></br>
+
 > Maintained by **Dharish Ramasamy**</br>
 > Embedded Software Engineer
